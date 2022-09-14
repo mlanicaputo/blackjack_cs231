@@ -1,0 +1,24 @@
+Initial hands: 
+Dealer hand: This hand has: 7, 4, .
+Player hand: This hand has: 8, 7, .
+Final hands: 
+Dealer hand: This hand has: 7, 4, 8, .
+Player hand: This hand has: 8, 7, 10, .
+Dealer wins.
+
+Initial hands: 
+Dealer hand: This hand has: 8, 10, .
+Player hand: This hand has: 6, 2, .
+Final hands: 
+Dealer hand: This hand has: 8, 10, .
+Player hand: This hand has: 6, 2, 10, .
+Push.
+
+Initial hands: 
+Dealer hand: This hand has: 11, 9, .
+Player hand: This hand has: 5, 10, .
+Final hands: 
+Dealer hand: This hand has: 11, 9, .
+Player hand: This hand has: 5, 10, 10, .
+Dealer wins.
+

@@ -1,0 +1,8 @@
+Player wins: 431
+43% of games
+
+Dealer wins: 458
+45% of games
+
+Pushes: 111
+11% of games
